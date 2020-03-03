@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "724166097404",
+    "firebase_url": "https://threat-c3c27.firebaseio.com",
+    "project_id": "threat-c3c27",
+    "storage_bucket": "threat-c3c27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724166097404:android:8fc3e0f541ff6b35",
+        "android_client_info": {
+          "package_name": "com.example.pola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724166097404-jmgh2vfc5c28ijimaeihv25d5estcjvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ2ZjDiIM6Wne6gfetImPhVLgw7n3Ym6c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724166097404:android:fa8030e0ee3c9714",
+        "android_client_info": {
+          "package_name": "com.example.threat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724166097404-jmgh2vfc5c28ijimaeihv25d5estcjvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ2ZjDiIM6Wne6gfetImPhVLgw7n3Ym6c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
